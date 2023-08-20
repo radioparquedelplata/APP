@@ -1,0 +1,7 @@
+RewriteEngine On
+DirectoryIndex home.php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+
+RewriteRule ^(.+)$ home.php?q=$1 [QSA,L]

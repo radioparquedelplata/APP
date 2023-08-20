@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Hits FM Radio</string>
+    <string name="listin">I am Listening to </string>
+    <string name="on">" on "</string>
+    <string name="you_to">. You too can listen by using this app: "</string>
+    <string name="title_sleep_mode">Sleep Mode</string>
+    <string name="title_off">OFF</string>
+    <string name="format_minutes">%1$s minutes</string>
+    <string name="format_minute">%1$s minute</string>
+    <string name="title_done">Done</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="do_you_want_to_exit_the_app">Do you want to exit the app?</string>
+    <string name="minimize">MINIMIZE</string>
+    <string name="top_chart">Top Chart</string>
+    <string name="default_notification_channel_id" translatable="false">channlex</string>
+    <string name="app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+</resources>

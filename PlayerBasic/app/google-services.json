@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "586046562565",
+    "firebase_url": "https://radio-ding.firebaseio.com",
+    "project_id": "radio-ding",
+    "storage_bucket": "radio-ding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586046562565:android:b4257f303e331dc5",
+        "android_client_info": {
+          "package_name": "com.creativoagencia.playerbasic2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586046562565-8ujhm025qjajh2lllm61eg6ssseqjfft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJaJITtSaRcxDBnjmneR1iBxSNxeYbheE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586046562565-8ujhm025qjajh2lllm61eg6ssseqjfft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586046562565:android:c446fb13ed4cabb1d9576c",
+        "android_client_info": {
+          "package_name": "com.creativoagencia.playerbasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586046562565-8ujhm025qjajh2lllm61eg6ssseqjfft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJaJITtSaRcxDBnjmneR1iBxSNxeYbheE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586046562565-8ujhm025qjajh2lllm61eg6ssseqjfft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
